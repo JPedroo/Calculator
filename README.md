@@ -7,4 +7,4 @@ A calculator made with Java Swing using the NetBeans IDE and JFrame. In the firs
 
 **P.S: It's recommended to download the source code to run the calculator in your pc with no problems. Anyhow, you're able to try to execute the .exe and the .jar only, those ones are located in the store folder.**
 
-> New features are coming soon!
+> Added some features as dark mode and scientific version.
